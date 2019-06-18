@@ -1,4 +1,5 @@
 Bitcoin Token (BTK) is a digital currency. It uses peer-to-peer technology to operate with no central authority or banks; managing transactions are carried out collectively by the network.
+
 https://etherscan.io/token/0xdb8646f5b487b5dd979fac618350e85018f557d4
 
     /// @return total amount of tokens
